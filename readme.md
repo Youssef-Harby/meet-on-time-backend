@@ -3,7 +3,7 @@
 ## Initial Proposal
 ### Problem Definition:
     
-    Knowing how long it takes to get to a point/place from several different points.
+    Knowing start time and the route to get to a point/place from several different points.
 
     For example: Tourist buses will move from different places heading to the pyramids and they must arrive on time.
 
@@ -24,9 +24,11 @@
 - Web App for Users/Bus drivers
 
 ### Project limitation
-- 
+- Add Stops
+- Requisites traffic/cost to and from our servers or 3rd party API
+- Traffic consideration
 ### Next Steps
--
+- Family/Friends location sharing
 ## Development Part
 
 ### Kafka for Real Time Tracking
