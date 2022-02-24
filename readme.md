@@ -29,6 +29,9 @@
 - Traffic consideration
 ### Next Steps
 - Family/Friends location sharing
+- Mobile App
+- Chat/Voice on map
+- 3D map visualization
 ## Development Part
 
 ### Kafka for Real Time Tracking
